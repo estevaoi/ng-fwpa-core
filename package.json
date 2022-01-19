@@ -1,0 +1,23 @@
+{
+  "name": "ng-fwpa-core",
+  "version": "1.0.0-RC1",
+  "description": "Core framework do Projeto Aprendiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevaoi/ng-fwpa-core.git"
+  },
+  "author": "Pablo Flanmarion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevaoi/ng-fwpa-core/issues"
+  },
+  "homepage": "https://github.com/estevaoi/ng-fwpa-core#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "figlet": "^1.5.2"
+  }
+}
