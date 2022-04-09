@@ -18,4 +18,4 @@ const nipeVocalEnum = {
   CONTRALTO: { code: 5, name: "CONTRALTO", abrev: "C" },
 };
 
-module.exports = NipeVocalEnum;
+module.exports = nipeVocalEnum;

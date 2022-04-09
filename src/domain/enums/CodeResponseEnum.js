@@ -15,4 +15,4 @@ const codeResponseEnum = {
   ERRO_INFRA: { code: 3, name: "ERRO_INFRA" },
 };
 
-module.exports = CodeResponseEnum;
+module.exports = codeResponseEnum;

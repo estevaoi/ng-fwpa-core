@@ -15,4 +15,4 @@ const sexoEnum = {
   FEMININO: { code: 2, name: "FEMININO", abrev: "F" },
 };
 
-module.exports = SexoEnum;
+module.exports = sexoEnum;

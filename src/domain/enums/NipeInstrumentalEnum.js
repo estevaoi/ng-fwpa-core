@@ -18,4 +18,4 @@ const nipeInstrumentalEnum = {
   PERCUSSAO: { code: 5, name: "PERCUSSAO", abrev: "PE" },
 };
 
-module.exports = NipeInstrumentalEnum;
+module.exports = nipeInstrumentalEnum;

@@ -18,4 +18,4 @@ const nivelEnum = {
   TODOS: { code: 5, name: "TODOS", abrev: "T" },
 };
 
-module.exports = NivelEnum;
+module.exports = nivelEnum;

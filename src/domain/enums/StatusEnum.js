@@ -15,4 +15,4 @@ const statusEnum = {
   INATIVO: { code: 2, name: "INATIVO", abrev: "I" },
 };
 
-module.exports = StatusEnum;
+module.exports = statusEnum;
